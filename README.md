@@ -1,3 +1,17 @@
 # DSA-cpp
 
-- [sorting](sorting.cpp)
+- [Sorting](sorting.cpp)
+- [Binary-Search](binarySearch.cpp)
+- [Recursion](recursion.cpp)
+- [Linked-List](linked-List)
+- [Stack](stack.cpp)
+- [Queue](queue.cpp)
+- [BinaryTree-BT](binaryTree.cpp)
+- [BinarySearchTree-BST](binarySearchTreeBST.cpp)
+- [Hashmap](hashmap.cpp)
+- [Trie](trie.cpp)
+- [Backtracking](backtracking.cpp)
+- [Graphs](graphs.cpp)
+- [DynamicProgramming-DP](dp.cpp)
+- [GreedyAlgo](greedyAlgo.cpp)
+- [Misc](misc.cpp)
